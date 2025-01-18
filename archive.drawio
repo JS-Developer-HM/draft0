@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="yuwX3BlBr9uTxbegYdtH">
-    <mxGraphModel dx="5751" dy="3375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3341" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1144,7 +1144,7 @@
             <mxRectangle width="159" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEOSn95PeUGBsUjNvt5N-43" value="50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=0;" vertex="1" parent="TEOSn95PeUGBsUjNvt5N-41">
+        <mxCell id="TEOSn95PeUGBsUjNvt5N-43" value="255" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=0;" vertex="1" parent="TEOSn95PeUGBsUjNvt5N-41">
           <mxGeometry x="159" width="158" height="40" as="geometry">
             <mxRectangle width="158" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1157,7 +1157,7 @@
             <mxRectangle width="159" height="45" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEOSn95PeUGBsUjNvt5N-46" value="Year" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=0;" vertex="1" parent="TEOSn95PeUGBsUjNvt5N-44">
+        <mxCell id="TEOSn95PeUGBsUjNvt5N-46" value="UUID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=0;" vertex="1" parent="TEOSn95PeUGBsUjNvt5N-44">
           <mxGeometry x="159" width="158" height="45" as="geometry">
             <mxRectangle width="158" height="45" as="alternateBounds" />
           </mxGeometry>
@@ -1170,7 +1170,7 @@
             <mxRectangle width="159" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEOSn95PeUGBsUjNvt5N-49" value="Enum" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=0;" vertex="1" parent="TEOSn95PeUGBsUjNvt5N-47">
+        <mxCell id="TEOSn95PeUGBsUjNvt5N-49" value="255" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=0;" vertex="1" parent="TEOSn95PeUGBsUjNvt5N-47">
           <mxGeometry x="159" width="158" height="40" as="geometry">
             <mxRectangle width="158" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1196,7 +1196,7 @@
             <mxRectangle width="159" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEOSn95PeUGBsUjNvt5N-55" value="Text" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=0;" vertex="1" parent="TEOSn95PeUGBsUjNvt5N-53">
+        <mxCell id="TEOSn95PeUGBsUjNvt5N-55" value="50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=0;" vertex="1" parent="TEOSn95PeUGBsUjNvt5N-53">
           <mxGeometry x="159" width="158" height="40" as="geometry">
             <mxRectangle width="158" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1222,7 +1222,7 @@
             <mxRectangle width="159" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEOSn95PeUGBsUjNvt5N-61" value="Enum" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=0;" vertex="1" parent="TEOSn95PeUGBsUjNvt5N-59">
+        <mxCell id="TEOSn95PeUGBsUjNvt5N-61" value="100" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=0;" vertex="1" parent="TEOSn95PeUGBsUjNvt5N-59">
           <mxGeometry x="159" width="158" height="40" as="geometry">
             <mxRectangle width="158" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1235,7 +1235,7 @@
             <mxRectangle width="159" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEOSn95PeUGBsUjNvt5N-64" value="Date Time" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=0;" vertex="1" parent="TEOSn95PeUGBsUjNvt5N-62">
+        <mxCell id="TEOSn95PeUGBsUjNvt5N-64" value="50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=0;" vertex="1" parent="TEOSn95PeUGBsUjNvt5N-62">
           <mxGeometry x="159" width="158" height="40" as="geometry">
             <mxRectangle width="158" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1248,7 +1248,7 @@
             <mxRectangle width="159" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEOSn95PeUGBsUjNvt5N-67" value="Text" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=0;" vertex="1" parent="TEOSn95PeUGBsUjNvt5N-65">
+        <mxCell id="TEOSn95PeUGBsUjNvt5N-67" value="[]" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=0;" vertex="1" parent="TEOSn95PeUGBsUjNvt5N-65">
           <mxGeometry x="159" width="158" height="40" as="geometry">
             <mxRectangle width="158" height="40" as="alternateBounds" />
           </mxGeometry>
